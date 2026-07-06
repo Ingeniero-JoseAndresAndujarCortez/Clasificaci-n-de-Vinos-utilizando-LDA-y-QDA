@@ -3,6 +3,7 @@ Esta tarea contiene un cuaderno en Python (Google Colab) donde se implementan y 
 
 
 Instrucciones para ejecutar esta Tarea:
+
 Es necesario contar con Python 3.x y las siguientes librerías instaladas: pandas, numpy, matplotlib, seaborn y scikit-learn.
 
 No es necesario descargar el dataset manualmente, ya que el código lo importa directamente a través del comando load_wine() de scikit-learn.
